@@ -83,6 +83,62 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "0ae8",
+      "type": "Part-Time",
+      "title": "Ignacia Flynn",
+      "description": "Consequat Sequi pla",
+      "salary": "$150K - $175K",
+      "location": "Adipisci consequatur",
+      "company": {
+        "name": "Cooke and Weiss Traders",
+        "description": "Vel accusantium alia",
+        "contactEmail": "fakudaw@mailinator.com",
+        "contactPhone": "+1 (867) 746-9221"
+      }
+    },
+    {
+      "id": "ace4",
+      "type": "Internship",
+      "title": "Cassandra Hull",
+      "description": "Velit excepturi moll",
+      "salary": "Under $50K",
+      "location": "Dolores asperiores s",
+      "company": {
+        "name": "Lynn and Hicks Co",
+        "description": "Qui recusandae Et a",
+        "contactEmail": "cysapum@mailinator.com",
+        "contactPhone": "+1 (627) 486-5972"
+      }
+    },
+    {
+      "id": "34b6",
+      "type": "Part-Time",
+      "title": "Uma Garner",
+      "description": "Sunt omnis est obcae",
+      "salary": "$80K - $90K",
+      "location": "Quibusdam laborum pr",
+      "company": {
+        "name": "Henson and Rutledge Associates",
+        "description": "Qui provident tempo",
+        "contactEmail": "pyhapuno@mailinator.com",
+        "contactPhone": "+1 (519) 926-3122"
+      }
+    },
+    {
+      "id": "bf7e",
+      "type": "Remote",
+      "title": "Jael Chase",
+      "description": "Porro molestiae in c",
+      "salary": "$50K - $60K",
+      "location": "Perferendis consequa",
+      "company": {
+        "name": "Byrd Moses Inc",
+        "description": "Tempore sit incidun",
+        "contactEmail": "nozanabi@mailinator.com",
+        "contactPhone": "+1 (735) 343-2721"
+      }
     }
   ]
 }
