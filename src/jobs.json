@@ -111,34 +111,6 @@
         "contactEmail": "cysapum@mailinator.com",
         "contactPhone": "+1 (627) 486-5972"
       }
-    },
-    {
-      "id": "34b6",
-      "type": "Part-Time",
-      "title": "Uma Garner",
-      "description": "Sunt omnis est obcae",
-      "salary": "$80K - $90K",
-      "location": "Quibusdam laborum pr",
-      "company": {
-        "name": "Henson and Rutledge Associates",
-        "description": "Qui provident tempo",
-        "contactEmail": "pyhapuno@mailinator.com",
-        "contactPhone": "+1 (519) 926-3122"
-      }
-    },
-    {
-      "id": "bf7e",
-      "type": "Remote",
-      "title": "Jael Chase",
-      "description": "Porro molestiae in c",
-      "salary": "$50K - $60K",
-      "location": "Perferendis consequa",
-      "company": {
-        "name": "Byrd Moses Inc",
-        "description": "Tempore sit incidun",
-        "contactEmail": "nozanabi@mailinator.com",
-        "contactPhone": "+1 (735) 343-2721"
-      }
     }
   ]
 }
