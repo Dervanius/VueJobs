@@ -99,18 +99,18 @@
       }
     },
     {
-      "id": "ace4",
       "type": "Internship",
-      "title": "Cassandra Hull",
+      "title": "Cassandra Hullington",
       "description": "Velit excepturi moll",
-      "salary": "Under $50K",
+      "salary": "$60K - $70K",
       "location": "Dolores asperiores s",
       "company": {
         "name": "Lynn and Hicks Co",
         "description": "Qui recusandae Et a",
         "contactEmail": "cysapum@mailinator.com",
         "contactPhone": "+1 (627) 486-5972"
-      }
+      },
+      "id": "ace4"
     }
   ]
 }
